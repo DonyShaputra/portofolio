@@ -1,0 +1,192 @@
+* {
+     margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.body {
+    text-align: center;
+}
+
+  .top {
+    background-color:#c6ebc9;
+    padding-top: 100px;
+    position: relative;
+   
+  }
+
+  .nama {
+    color: #70af85;
+    font-family: 'Satisfy', cursive;
+    font-size: 3rem;
+    bottom: 500px;
+    text-align: center;
+  }
+
+  .bio {
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Bungee Spice', cursive;
+  }
+
+  .awan1 {
+    position: absolute;
+    right: 300px;
+    bottom: 500px;
+  }
+
+  .awan2 {
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+  }
+
+  .ilustrasi {
+    position: absolute;
+    max-width: 500px;
+    right: 500px;
+    bottom: -100px;
+  }
+
+  .profile {
+    margin: 50px auto;
+    text-align: center;
+    line-height: 2;
+    width: 30%;
+    color: #70af85;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .avatar {
+    border-radius: 50%;
+    width: 250px;
+  }
+
+  .skill {
+ 
+    margin: 50px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #70afa8;
+  }
+
+  .skill2 {
+    color: #d0991afb;
+  } 
+
+  .myskill{
+    color: rgb(30, 171, 98);
+  }
+
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+      
+  }
+
+  .skill-img {
+ border-radius: 50%;
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+
+
+  }
+
+  .skill-img2 {
+    border-radius: 50%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+
+
+
+
+  .contact {
+    margin: 50px auto;
+    width: 40%;
+    line-height: 3;
+    color: #2aaabe;
+    text-align: center;
+    font-family: ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    
+  }
+
+
+
+
+
+
+
+/* CSS */
+.button-54 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #000;
+  cursor: pointer;
+  border: 3px solid;
+  padding: 0.25em 0.5em;
+  box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-54:active {
+  box-shadow: 0px 0px 0px 0px;
+  top: 5px;
+  left: 5px;
+}
+
+@media (min-width: 768px) {
+  .button-54 {
+    padding: 0.25em 0.75em;
+  }
+}
+
+
+.bawah {
+  padding: 40px;
+  background-color: #c6ebc9;
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+}
+
+
+
+
+
+
+
+/* CSS */
+.button-34 {
+  background: #08e568;
+  border-radius: 999px;
+  box-shadow: #5df069 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+}
+
+
